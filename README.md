@@ -5,6 +5,7 @@
 - a matter.js animation of projectile motion
 - [https://brm.io/matter-js/demo/#restitution](https://brm.io/matter-js/demo/#restitution)
 - GitHub link - https://github.com/veeral-agarwal/ProjectileMotion
+- documentation - [https://www.notion.so/Projectile-Motion-JS-4924d5911f684b78ac534106f3c33e51?pvs=4](https://www.notion.so/Projectile-Motion-JS-4924d5911f684b78ac534106f3c33e51)
 
 <!-- ### Timeline/Time-breakdown
 
@@ -25,7 +26,7 @@ The code is divided into two main parts: the HTML file and the JavaScript file. 
 ### HTML
 
 - The head of the document contains links to CSS files (style.css and Bootstrap), JavaScript files (jQuery, Bootstrap, matter.js, bmi.js, and script.js), and Google fonts (Sacramento and Roboto).
-- The body of the document contains a container with text center class, which has a heading (Projectile motion simulation) and a form with two input fields (Angle and Velocity), and a button (Shoot the ball) .
+- The body of the document contains a container with text center class, which has a heading (Projectile motion simulation) and a form with two input fields (Angle and Velocity), and a button (Shoot the ball).
 
 ### CSS
 
