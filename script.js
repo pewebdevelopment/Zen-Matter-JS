@@ -31,7 +31,7 @@ function project(){
             height: 500,
             showVelocity: true,
             showCollisions: true,
-            background : '#0f0f13'
+            background : '#57bdd6'
         }
     });
 
