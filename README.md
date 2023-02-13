@@ -6,14 +6,14 @@
 - [https://brm.io/matter-js/demo/#restitution](https://brm.io/matter-js/demo/#restitution)
 - GitHub link - https://github.com/veeral-agarwal/ProjectileMotion
 
-### Timeline/Time-breakdown
+<!-- ### Timeline/Time-breakdown
 
 | learn matter.js | 4 hrs | unpaid |
 | --- | --- | --- |
 | coding on the project | 1.5 hrs | paid |
 | debugging and testing | 1.5 hrs | paid |
 | features and documentation | 2 hrs | paid |
-
+ -->
 ### Introduction
 
 The code implements a simulation of projectile motion using matter.js, a 2D physics engine. The simulation takes as input the initial angle and velocity of the projectile, and outputs its motion in real-time on the screen.
