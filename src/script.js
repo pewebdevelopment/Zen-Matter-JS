@@ -1,5 +1,4 @@
-    
-function project(){
+    function project(){
 
     document.getElementById('renderport').style.padding = "10px";
     document.getElementById('ftr').style.position = 'relative' ;
@@ -45,13 +44,10 @@ function project(){
 
 
     // create two bodies and a ground
-    // var boxA = Bodies.rectangle(200, 600, 40, 40);
-    //var ball1=Bodies.circle(50,440,30,{isStatic:true});
     var ball = Bodies.circle(50,440, 30 , {friction: 0, frictionAir:0, restitution: coeffrst, inverseInertia: 0 });
     var ground = Bodies.rectangle(400, 500, 2000, 60, {friction: 0, isStatic: true });
 
     engine.world.gravity.y = 1;
-
     Matter.Body.setVelocity(ball, {x:vx , y:vy});
 
     // adding all of the bodies to our world
@@ -96,7 +92,6 @@ function project(){
 
     // to run the engine
     Engine.run(engine);
-
     // to run the renderer
     Render.run(render);
 
