@@ -1,4 +1,4 @@
-# Zen---Matter-JS
+# Zen-Matter-JS
 
 # Projectile Motion | JS
 
