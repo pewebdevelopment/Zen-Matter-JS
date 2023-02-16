@@ -6,7 +6,6 @@
 
 - a matter.js animation of projectile motion
 - [https://brm.io/matter-js/demo/#restitution](https://brm.io/matter-js/demo/#restitution)
-- documentation - [https://www.notion.so/Projectile-Motion-JS-4924d5911f684b78ac534106f3c33e51?pvs=4](https://www.notion.so/Projectile-Motion-JS-4924d5911f684b78ac534106f3c33e51)
 
 ### Introduction
 
