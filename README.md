@@ -78,7 +78,7 @@ The code is divided into two main parts: the HTML file and the JavaScript file. 
 - Test the User Interactions. Test the user interactions with the website or application, such as clicking buttons and links, and ensure that the styles are consistent and working correctly.
 - Validate the CSS Code. Validate the CSS code using a CSS validator to ensure that there are no syntax errors and that the code follows best practices.
 
-### Acknowledgements
+### Acknowledgments
 
 - The Projectile Motion Simulator code uses the matter.js library to simulate the motion of a projectile. matter.js is a 2D physics engine for the web that is developed and maintained by Liam Brummitt and contributors.
 - The code also uses Bootstrap and jQuery libraries to handle the layout and user interactions. The Google Fonts API is used to provide custom fonts.
